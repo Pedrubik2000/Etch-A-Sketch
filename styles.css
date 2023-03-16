@@ -1,0 +1,12 @@
+.grid-container {
+    width: 480px;
+    display: grid;
+    background-color: #2196F3;
+  }
+
+  .grid-item {
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .grid-item:hover {
+    background-color: yellow;
+  }
